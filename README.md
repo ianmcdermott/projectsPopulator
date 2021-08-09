@@ -9,4 +9,4 @@ The box2d library - https://github.com/shiffman/Box2D-for-Processing
 • Change Category names for more precision \
 • Make colors between parallel skills & tools match up  \
 • Make More accessible for smaller screens  \
-• Make P5.js version  \
+• Make P5.js version  
