@@ -1,0 +1,457 @@
+[
+    {
+        "name": "Generative Music",
+        "id": 0,
+        "category": "skills",
+        "type": "Algorithmic Art",
+        "color": "991B1E"
+    },
+    {
+        "name": "Biometric data",
+        "id": 1,
+        "category": "skills",
+        "type": "Algorithmic Art",
+        "color": "EF4246"
+    },
+    {
+        "name": "Non-linear music",
+        "id": 2,
+        "category": "skills",
+        "type": "Algorithmic Art",
+        "color": "8C421E"
+    },
+    {
+        "name": "Particle Systems",
+        "id": 3,
+        "category": "skills",
+        "type": "Algorithmic Art",
+        "color": "CD3128"
+    },
+    {
+        "name": "Generative Art",
+        "id": 4,
+        "category": "skills",
+        "type": "Algorithmic Art",
+        "color": "CF7878"
+    },
+    {
+        "name": "2D Animation",
+        "id": 5,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "37479D"
+    },
+    {
+        "name": "3D Animation",
+        "id": 6,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "C0BADD"
+    },
+    {
+        "name": "Video Editing",
+        "id": 7,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "7C81BE"
+    },
+    {
+        "name": "Video Production",
+        "id": 8,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "597DBF"
+    },
+    {
+        "name": "Motion Graphics",
+        "id": 9,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "597DBF"
+    },
+    {
+        "name": "Video Projection",
+        "id": 10,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "2864B0"
+    },
+    {
+        "name": "After Effects Expressions",
+        "id": 11,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "44ABE1"
+    },
+    {
+        "name": "Green Screen",
+        "id": 12,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "00699A"
+    },
+    {
+        "name": "Rotoscoping",
+        "id": 13,
+        "category": "skills",
+        "type": "Video Production",
+        "color": "3C2F8F"
+    },
+    {
+        "name": "Audio Design",
+        "id": 14,
+        "category": "skills",
+        "type": "Audio Production",
+        "color": "FBF397"
+    },
+    {
+        "name": "Sound Recording",
+        "id": 15,
+        "category": "skills",
+        "type": "Audio Production",
+        "color": "E2CE20"
+    },
+    {
+        "name": "Mixing and Mastering",
+        "id": 16,
+        "category": "skills",
+        "type": "Audio Production",
+        "color": "FCB017"
+    },
+    {
+        "name": "Sound Synthesis",
+        "id": 17,
+        "category": "skills",
+        "type": "Audio Production",
+        "color": "C58C2B"
+    },
+    {
+        "name": "Granular Synthesis",
+        "id": 18,
+        "category": "skills",
+        "type": "Audio Production",
+        "color": "966727"
+    },
+    {
+        "name": "Web Development",
+        "id": 19,
+        "category": "skills",
+        "type": "Software Engineering",
+        "color": "F05787"
+    },
+    {
+        "name": "UX Design",
+        "id": 20,
+        "category": "skills",
+        "type": "Software Engineering",
+        "color": "EFAAC0"
+    },
+    {
+        "name": "Android Development",
+        "id": 21,
+        "category": "skills",
+        "type": "Software Engineering",
+        "color": "E72891"
+    },
+    {
+        "name": "iOS development",
+        "id": 22,
+        "category": "skills",
+        "type": "Software Engineering",
+        "color": "DE76AF"
+    },
+    {
+        "name": "Soldering",
+        "id": 23,
+        "category": "skills",
+        "type": "Physical Computing",
+        "color": "7C51A1"
+    },
+    {
+        "name": "Circuitry",
+        "id": 24,
+        "category": "skills",
+        "type": "Physical Computing",
+        "color": "512C88"
+    },
+    {
+        "name": "Robotics",
+        "id": 25,
+        "category": "skills",
+        "type": "Physical Computing",
+        "color": "A960A6"
+    },
+    {
+        "name": "Motors",
+        "id": 26,
+        "category": "skills",
+        "type": "Physical Computing",
+        "color": "933393"
+    },
+    {
+        "name": "Machine Learning",
+        "id": 27,
+        "category": "skills",
+        "type": "AI",
+        "color": "AAD037"
+    },
+    {
+        "name": "Image Recognition",
+        "id": 28,
+        "category": "skills",
+        "type": "AI",
+        "color": "D0E5AE"
+    },
+    {
+        "name": "Facial Recognition",
+        "id": 29,
+        "category": "skills",
+        "type": "AI",
+        "color": "26B34B"
+    },
+    {
+        "name": "Emotion Recognition",
+        "id": 30,
+        "category": "skills",
+        "type": "AI",
+        "color": "165C2F"
+    },
+    {
+        "name": "Node-Based programming",
+        "id": 31,
+        "category": "skills",
+        "type": "AI",
+        "color": "90CD93"
+    },
+    {
+        "name": "Audio Detection",
+        "id": 32,
+        "category": "skills",
+        "type": "AI",
+        "color": "00B197"
+    },
+    {
+        "name": "Motion detection",
+        "id": 33,
+        "category": "skills",
+        "type": "AI",
+        "color": "006455"
+    },
+    {
+        "name": "Oculus",
+        "id": 34,
+        "category": "tools",
+        "type": "VR",
+        "color": "991B1E"
+    },
+    {
+        "name": "Unity",
+        "id": 35,
+        "category": "tools",
+        "type": "VR",
+        "color": "EF4246"
+    },
+    {
+        "name": "Raspberry Pi",
+        "id": 36,
+        "category": "tools",
+        "type": "Creative Code",
+        "color": "8C421E"
+    },
+    {
+        "name": "Arduino",
+        "id": 37,
+        "category": "tools",
+        "type": "Creative Code",
+        "color": "CD6028"
+    },
+    {
+        "name": "Processing",
+        "id": 38,
+        "category": "tools",
+        "type": "Creative Code",
+        "color": "CFA078"
+    },
+    {
+        "name": "Blender",
+        "id": 39,
+        "category": "tools",
+        "type": "3D Design",
+        "color": "FBF397"
+    },
+    {
+        "name": "ABS/PLA Printing",
+        "id": 40,
+        "category": "tools",
+        "type": "3D Design",
+        "color": "FCB017"
+    },
+    {
+        "name": "SLA Printing",
+        "id": 41,
+        "category": "tools",
+        "type": "3D Design",
+        "color": "E2CE20"
+    },
+    {
+        "name": "Reaper",
+        "id": 42,
+        "category": "tools",
+        "type": "Audio Production",
+        "color": "26B34B"
+    },
+    {
+        "name": "Ableton",
+        "id": 43,
+        "category": "tools",
+        "type": "Audio Production",
+        "color": "165C2F"
+    },
+    {
+        "name": "GarageBand",
+        "id": 44,
+        "category": "tools",
+        "type": "Audio Production",
+        "color": "2BA365"
+    },
+    {
+        "name": "MIDI",
+        "id": 45,
+        "category": "tools",
+        "type": "Audio Production",
+        "color": "90CD93"
+    },
+    {
+        "name": "Native Instruments Suite",
+        "id": 46,
+        "category": "tools",
+        "type": "Audio Production",
+        "color": "00B197"
+    },
+    {
+        "name": "The Adobe Creative Suite",
+        "id": 47,
+        "category": "tools",
+        "type": "Graphics & Video Production",
+        "color": "7C51A1"
+    },
+    {
+        "name": "After Effects",
+        "id": 48,
+        "category": "tools",
+        "type": "Graphics",
+        "color": "512C88"
+    },
+    {
+        "name": "EbSynth",
+        "id": 49,
+        "category": "tools",
+        "type": "Graphics",
+        "color": "B35EA5"
+    },
+    {
+        "name": "Photoshop",
+        "id": 50,
+        "category": "tools",
+        "type": "Graphics",
+        "color": "933393"
+    },
+    {
+        "name": "Pepper",
+        "id": 51,
+        "category": "tools",
+        "type": "Robotics",
+        "color": "F05787"
+    },
+    {
+        "name": "Choreograph",
+        "id": 52,
+        "category": "tools",
+        "type": "Robotics",
+        "color": "EFAAC0"
+    },
+    {
+        "name": "HTML",
+        "id": 53,
+        "category": "tools",
+        "type": "Code",
+        "color": "37479D"
+    },
+    {
+        "name": "CSS",
+        "id": 54,
+        "category": "tools",
+        "type": "Code",
+        "color": "C0BADD"
+    },
+    {
+        "name": "Javascript",
+        "id": 55,
+        "category": "tools",
+        "type": "Code",
+        "color": "7C81BE"
+    },
+    {
+        "name": "Python",
+        "id": 56,
+        "category": "tools",
+        "type": "Code",
+        "color": "597DBF"
+    },
+    {
+        "name": "Java",
+        "id": 57,
+        "category": "tools",
+        "type": "Code",
+        "color": "2864B0"
+    },
+    {
+        "name": "C",
+        "id": 58,
+        "category": "tools",
+        "type": "Code",
+        "color": "9ED1F1"
+    },
+    {
+        "name": "Drupal",
+        "id": 59,
+        "category": "tools",
+        "type": "Code",
+        "color": "44ABE1"
+    },
+    {
+        "name": "C++",
+        "id": 60,
+        "category": "tools",
+        "type": "Code",
+        "color": "00699A"
+    },
+    {
+        "name": "OpenGL",
+        "id": 61,
+        "category": "tools",
+        "type": "Code",
+        "color": "B9E0F7"
+    },
+    {
+        "name": "Tensorflow",
+        "id": 62,
+        "category": "tools",
+        "type": "Code",
+        "color": "3C2F8F"
+    },
+    {
+        "name": "Eclipse",
+        "id": 63,
+        "category": "tools",
+        "type": "Code",
+        "color": "231E5F"
+    },
+    {
+        "name": "Data Visualization",
+        "id": 64,
+        "category": "skills",
+        "type": "Algorithmic Art",
+        "color": "FAC0B8"
+    }
+]
