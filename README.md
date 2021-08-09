@@ -2,7 +2,7 @@
 Adds Categories to Ian McDermott's list of IMD Projects
 
 # Requirements:
-Processing - https://processing.org/
+Processing - https://processing.org/ \
 The box2d library - https://github.com/shiffman/Box2D-for-Processing
 
 # ToDo
