@@ -1,7 +1,7 @@
 # projectsPopulator
 Adds Categories to Ian McDermott's list of IMD Projects
 
-![Alt Text](https://raw.githubusercontent.com/ianmcdermott/projectsPopulator/main/gifs/ProjPop.gif)
+![Alt Text](https://raw.githubusercontent.com/ianmcdermott/projectsPopulator/main/gifs/ProjPop1.gif)
 
 # Requirements:
 Processing - https://processing.org/ \
