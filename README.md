@@ -1,6 +1,8 @@
 # projectsPopulator
 Adds Categories to Ian McDermott's list of IMD Projects
 
+![Alt Text](https://raw.githubusercontent.com/ianmcdermott/projectsPopulator/main/gifs/ProjPop.gif)
+
 # Requirements:
 Processing - https://processing.org/ \
 The box2d library - https://github.com/shiffman/Box2D-for-Processing
